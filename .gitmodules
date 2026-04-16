@@ -1,3 +1,27 @@
 [submodule "hw-02"]
 	path = hw-02
 	url = https://github.com/slaventiysvat/goit-rdb-hw-02.git
+[submodule "hw-03"]
+	path = hw-03
+	url = https://github.com/slaventiysvat/goit-rdb-hw-03.git
+[submodule "hw-04"]
+	path = hw-04
+	url = https://github.com/slaventiysvat/goit-rdb-hw-04.git
+[submodule "hw-05"]
+	path = hw-05
+	url = https://github.com/slaventiysvat/goit-rdb-hw-05.git
+[submodule "hw-06"]
+	path = hw-06
+	url = https://github.com/slaventiysvat/goit-rdb-hw-06.git
+[submodule "hw-07"]
+	path = hw-07
+	url = https://github.com/slaventiysvat/goit-rdb-hw-07.git
+[submodule "hw-08"]
+	path = hw-08
+	url = https://github.com/slaventiysvat/goit-rdb-hw-08.git
+[submodule "hw-09"]
+	path = hw-09
+	url = https://github.com/slaventiysvat/goit-rdb-hw-09.git
+[submodule "hw-10"]
+	path = hw-10
+	url = https://github.com/slaventiysvat/goit-rdb-hw-10.git
